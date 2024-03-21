@@ -2,6 +2,8 @@
 
 Xa-xa, look at this
 
+![codewars badge](https://www.codewars.com/users/wiirtex/badges/large?logo=false)
+
 <!--
 **wiirtex/wiirtex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
